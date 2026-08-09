@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 380" fill="none">
+  <defs><filter id="g"><feGaussianBlur stdDeviation="14"/></filter></defs>
+  <ellipse cx="150" cy="190" rx="120" ry="140" fill="#F97316" opacity="0.08" filter="url(#g)"/>
+  <!-- 8-point star burst -->
+  <path d="M 150 40 L 162 138 L 260 95 L 192 170 L 290 190 L 192 210 L 260 285 L 162 242 L 150 340 L 138 242 L 40 285 L 108 210 L 10 190 L 108 170 L 40 95 L 138 138 Z"
+        fill="#F97316" opacity="0.15"/>
+  <!-- 4-point foreground star -->
+  <path d="M 150 80 L 162 168 L 250 190 L 162 212 L 150 300 L 138 212 L 50 190 L 138 168 Z"
+        fill="#F97316" opacity="0.9"/>
+  <!-- inner star -->
+  <path d="M 150 130 L 158 182 L 210 190 L 158 198 L 150 250 L 142 198 L 90 190 L 142 182 Z"
+        fill="#ffffff" opacity="0.2"/>
+  <!-- centre -->
+  <circle cx="150" cy="190" r="14" fill="#F97316" opacity="1"/>
+  <circle cx="150" cy="190" r="5"  fill="#ffffff" opacity="0.9"/>
+</svg>

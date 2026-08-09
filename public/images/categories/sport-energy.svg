@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 380" fill="none">
+  <defs><filter id="g"><feGaussianBlur stdDeviation="14"/></filter></defs>
+  <ellipse cx="150" cy="190" rx="100" ry="130" fill="#FFB800" opacity="0.1" filter="url(#g)"/>
+  <!-- lightning bolt -->
+  <path d="M 175 40 L 110 195 L 155 195 L 125 340 L 200 165 L 152 165 Z"
+        fill="#FFB800" opacity="0.95"/>
+  <!-- inner highlight -->
+  <path d="M 168 65 L 125 185 L 160 185 L 138 295 L 190 178 L 155 178 Z"
+        fill="#ffffff" opacity="0.18"/>
+  <!-- glow -->
+  <path d="M 175 40 L 110 195 L 155 195 L 125 340 L 200 165 L 152 165 Z"
+        fill="#FFB800" opacity="0.2" filter="url(#g)"/>
+</svg>

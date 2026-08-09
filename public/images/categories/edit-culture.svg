@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 380" fill="none">
+  <defs><filter id="g"><feGaussianBlur stdDeviation="10"/></filter></defs>
+  <rect x="20" y="100" width="260" height="180" rx="8" fill="#06B6D4" opacity="0.07" filter="url(#g)"/>
+  <!-- film strip frame -->
+  <rect x="30"  y="110" width="240" height="160" rx="6" stroke="#06B6D4" stroke-width="1.5" opacity="0.5"/>
+  <!-- perforations top -->
+  <rect x="44"  y="120" width="14" height="20" rx="3" fill="#06B6D4" opacity="0.6"/>
+  <rect x="72"  y="120" width="14" height="20" rx="3" fill="#06B6D4" opacity="0.6"/>
+  <rect x="100" y="120" width="14" height="20" rx="3" fill="#06B6D4" opacity="0.6"/>
+  <rect x="128" y="120" width="14" height="20" rx="3" fill="#06B6D4" opacity="0.6"/>
+  <rect x="156" y="120" width="14" height="20" rx="3" fill="#06B6D4" opacity="0.6"/>
+  <rect x="184" y="120" width="14" height="20" rx="3" fill="#06B6D4" opacity="0.6"/>
+  <rect x="212" y="120" width="14" height="20" rx="3" fill="#06B6D4" opacity="0.6"/>
+  <rect x="240" y="120" width="14" height="20" rx="3" fill="#06B6D4" opacity="0.6"/>
+  <!-- perforations bottom -->
+  <rect x="44"  y="240" width="14" height="20" rx="3" fill="#06B6D4" opacity="0.6"/>
+  <rect x="72"  y="240" width="14" height="20" rx="3" fill="#06B6D4" opacity="0.6"/>
+  <rect x="100" y="240" width="14" height="20" rx="3" fill="#06B6D4" opacity="0.6"/>
+  <rect x="128" y="240" width="14" height="20" rx="3" fill="#06B6D4" opacity="0.6"/>
+  <rect x="156" y="240" width="14" height="20" rx="3" fill="#06B6D4" opacity="0.6"/>
+  <rect x="184" y="240" width="14" height="20" rx="3" fill="#06B6D4" opacity="0.6"/>
+  <rect x="212" y="240" width="14" height="20" rx="3" fill="#06B6D4" opacity="0.6"/>
+  <rect x="240" y="240" width="14" height="20" rx="3" fill="#06B6D4" opacity="0.6"/>
+  <!-- play button centre -->
+  <circle cx="150" cy="190" r="30" fill="#06B6D4" opacity="0.85"/>
+  <path d="M 142 176 L 166 190 L 142 204 Z" fill="#ffffff" opacity="0.95"/>
+</svg>

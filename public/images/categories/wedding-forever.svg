@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 380" fill="none">
+  <defs><filter id="g"><feGaussianBlur stdDeviation="12"/></filter></defs>
+  <ellipse cx="150" cy="200" rx="100" ry="120" fill="#D97706" opacity="0.1" filter="url(#g)"/>
+  <!-- diamond gem -->
+  <polygon points="150,55 230,135 150,235 70,135" fill="#D97706" opacity="0.9"/>
+  <!-- facets -->
+  <polygon points="150,55  230,135 150,135" fill="#ffffff" opacity="0.12"/>
+  <polygon points="150,55  70,135  150,135" fill="#ffffff" opacity="0.06"/>
+  <line x1="150" y1="55"  x2="150" y2="235" stroke="#ffffff" stroke-width="0.6" opacity="0.2"/>
+  <line x1="70"  y1="135" x2="230" y2="135" stroke="#ffffff" stroke-width="0.6" opacity="0.2"/>
+  <line x1="150" y1="55"  x2="100" y2="135" stroke="#ffffff" stroke-width="0.5" opacity="0.15"/>
+  <line x1="150" y1="55"  x2="200" y2="135" stroke="#ffffff" stroke-width="0.5" opacity="0.15"/>
+  <!-- ring band -->
+  <ellipse cx="150" cy="295" rx="40" ry="14" stroke="#D97706" stroke-width="4" opacity="0.7" fill="none"/>
+  <!-- connector line -->
+  <line x1="110" y1="295" x2="70"  y2="235" stroke="#D97706" stroke-width="3" opacity="0.5"/>
+  <line x1="190" y1="295" x2="230" y2="235" stroke="#D97706" stroke-width="3" opacity="0.5"/>
+</svg>
